@@ -1,2 +1,2 @@
 Hello Devops
-Docker is comming
+Docker is coming
